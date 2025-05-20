@@ -66,5 +66,5 @@ You can periodically archive these folders or stream the data to cloud storage, 
 
 ---
 
-## 📁 Project Structure
+
 
