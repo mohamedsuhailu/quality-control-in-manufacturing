@@ -11,6 +11,8 @@ This project uses computer vision and AI to automate defect detection in manufac
 ⚙️ Configurable thresholds and easily extendable
 📊 Scalable to real-time and multi-line environments
 📥 Data collection and labeling support for building datasets
+
+
 🔧 Technologies Used
 
 Python 3.x
@@ -19,6 +21,8 @@ NumPy
 Matplotlib
 (Optional) Flask – for web dashboard/API
 (Optional) Raspberry Pi / Jetson Nano – for edge deployment
+
+
 📷 How It Works
 
 Capture Input
@@ -34,6 +38,8 @@ Save & Report
 Saves annotated images and generates .txt reports with defect information.
 Repeat in Real-Time
 Can be extended to run continuously in real-time environments.
+
+
 📥 Data Collection
 
 This system supports data collection to build a high-quality dataset for:
@@ -41,6 +47,8 @@ This system supports data collection to build a high-quality dataset for:
 Model training (deep learning-based quality control)
 Production audit trails
 Continuous improvement and retraining
+
+
 How It Works:
 
 Captured product images and corresponding defect annotations are saved in:
